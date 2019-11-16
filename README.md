@@ -28,3 +28,6 @@ https://www.fastcompany.com/90349046/what-its-really-like-to-be-one-of-the-ghost
 "Untold History of AI: How Amazon’s Mechanical Turkers Got Squeezed Inside the Machine"
 IEEE Spectrum, APRIL 22, 2019
 https://spectrum.ieee.org/tech-talk/tech-history/dawn-of-electronics/untold-history-of-ai-mechanical-turk-revisited-tktkt
+
+
+https://www.nytimes.com/interactive/2019/11/15/nyregion/amazon-mechanical-turk.html
